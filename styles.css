@@ -45,8 +45,9 @@ body {
   
   p#answer {
     color: lightblue;
-    padding: 20px;
+    padding: 0px;
     letter-spacing: 2px;
+    font-size: 15px;
   }
   
   button, input {
