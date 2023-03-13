@@ -1,6 +1,6 @@
 # Magic-8-Ball-Project
 
-Link to Project: 
+Link to Project: https://brittanytamra.github.io/Magic-8-Ball-Project/
 
 TECH USED: HTML, CSS, JavaScript
 
